@@ -1,0 +1,1 @@
+{"rm_binary": true, "tvt_split": null, "verbose": 0, "output": "data/islv/", "dataset": "data/DermatologyC.mat", "miss_val_perc": 0.02, "seed": 1111, "miss_perc": 0.5, "dataset_name": "dermatologyPP", "show_plots": false}

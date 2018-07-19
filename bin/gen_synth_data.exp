@@ -1,0 +1,450 @@
+]0;IPython: versiculi/hetero-spn#
+# 1/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/1111 -t cat pos cat count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 2/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/2222 -t count pos real pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 3/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/3333 -t count cat real cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 4/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/4444 -t real real cat pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 5/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/5555 -t count pos pos real --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 6/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/6666 -t count count cat cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 7/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/7777 -t count cat count cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 8/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/8888 -t pos pos count pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 9/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/9999 -t count pos pos pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 10/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/4/1337 -t real pos pos count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 11/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/1111 -t count count real count pos pos real cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 12/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/2222 -t count cat count pos real pos real cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 13/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/3333 -t cat count cat cat cat cat count cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 14/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/4444 -t real pos cat count count count pos real --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 15/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/5555 -t pos real real real real pos cat count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 16/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/6666 -t real real pos cat cat cat cat pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 17/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/7777 -t cat real pos real pos pos cat real --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 18/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/8888 -t pos cat cat count pos cat cat pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 19/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/9999 -t cat pos count pos pos count pos count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 20/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/8/1337 -t cat cat count count real cat count count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 21/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/1111 -t real count pos cat real real real count pos real count real cat cat count count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 22/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/2222 -t real count count cat pos cat pos cat cat pos count real cat pos count real --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 23/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/3333 -t count real count count count pos real count count cat real pos pos pos cat pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 24/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/4444 -t pos count pos pos cat real count pos real count real pos real pos real pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 25/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/5555 -t pos count count pos cat cat count count count real count count real cat real pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 26/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/6666 -t cat cat pos cat count real cat count real count cat pos real pos cat count --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 27/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/7777 -t cat pos cat pos cat cat cat pos count count count real count pos pos pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 28/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/8888 -t count cat pos cat real count cat count real real count pos pos count pos cat --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 29/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/9999 -t real cat real cat count real real cat cat real real pos real cat pos real --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 30/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 2000/16/1337 -t cat count pos cat real real cat pos count pos cat count count count cat pos --samples 2000 --min-instances 500 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 31/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/1111 -t pos pos cat real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 32/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/2222 -t pos real pos real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 33/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/3333 -t count real pos cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 34/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/4444 -t count pos cat count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 35/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/5555 -t cat cat count real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 36/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/6666 -t real cat real cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 37/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/7777 -t pos cat count pos --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 38/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/8888 -t cat real cat real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 39/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/9999 -t real count count count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 40/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/4/1337 -t cat cat pos real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 41/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/1111 -t real pos cat real count real real real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 42/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/2222 -t cat pos real pos cat count cat pos --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 43/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/3333 -t count cat count real count pos count count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 44/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/4444 -t cat count real cat real real count pos --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 45/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/5555 -t real cat count pos pos cat count real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 46/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/6666 -t count real real real pos count pos pos --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 47/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/7777 -t cat count real pos pos pos cat pos --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 48/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/8888 -t pos real real count pos pos real count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 49/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/9999 -t real pos count count count count real cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 50/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/8/1337 -t count cat count cat real count count cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 51/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/1111 -t real count cat real count pos cat count real cat pos count real count cat count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 52/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/2222 -t pos count real pos count pos count real pos cat pos pos cat real count count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 53/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/3333 -t cat count cat real pos pos pos count real count count cat real pos pos cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 54/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/4444 -t cat cat pos pos cat count pos real count real real pos real count pos count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 55/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/5555 -t cat pos cat real real count real count pos count real cat real real cat real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 56/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/6666 -t real real pos count cat real pos count cat real cat cat cat pos count cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 57/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/7777 -t cat pos pos cat real pos cat cat real count cat real cat real pos real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 58/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/8888 -t pos pos pos cat cat real real pos pos count count pos pos real real real --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 59/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/9999 -t real cat count real real pos pos cat cat count cat pos pos real real count --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 60/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 5000/16/1337 -t count pos real real real real cat cat real count pos cat cat real count cat --samples 5000 --min-instances 1250 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 61/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/1111 -t count cat count cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 62/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/2222 -t pos real pos real --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 63/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/3333 -t cat pos real cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 64/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/4444 -t real real count count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 65/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/5555 -t count real cat count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 66/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/6666 -t cat pos pos cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 67/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/7777 -t count count cat pos --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 68/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/8888 -t real cat pos real --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 69/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/9999 -t pos count pos cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 70/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/4/1337 -t real count real cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 71/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/1111 -t real real real pos cat pos count count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 72/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/2222 -t pos real pos count count cat count cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 73/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/3333 -t cat real cat cat pos pos real real --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 74/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/4444 -t cat real real count cat cat count cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 75/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/5555 -t pos cat count cat pos pos real pos --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 76/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/6666 -t pos pos pos count pos count pos cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 77/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/7777 -t count cat real pos cat pos cat count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 78/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/8888 -t pos cat pos count cat real count count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 79/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/9999 -t cat cat pos count cat real pos cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 80/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/8/1337 -t cat count pos real cat pos pos real --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 81/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/1111 -t real count count cat cat pos pos real cat real pos count real count pos count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 1111 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 82/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/2222 -t real pos count pos pos real cat count pos pos real count cat count cat count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 2222 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 83/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/3333 -t pos pos real pos pos cat cat pos cat pos real pos real real pos count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 3333 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 84/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/4444 -t count pos count real count cat cat cat pos pos cat pos pos cat cat real --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 4444 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 85/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/5555 -t real cat cat cat cat cat real pos pos cat real cat real count cat pos --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 5555 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 86/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/6666 -t count count pos count count real real real cat pos count real cat real real count --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 6666 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 87/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/7777 -t cat real real count count cat count cat pos real cat pos cat count cat cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 7777 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 88/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/8888 -t pos real cat cat real count real pos cat real cat cat count count real cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 8888 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 89/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/9999 -t cat pos pos real pos cat real count count real cat pos real real count cat --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 9999 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+
+#
+# 90/90
+ipython3 -- bin/gen_synth_data.py 20180502-181549/real-pos-count-cat -o data/synth --exp-id 10000/16/1337 -t pos count count pos cat pos real real real count pos count pos count real real --samples 10000 --min-instances 2500 --col-split-threshold 0.1 --seed 1337 --priors prior-1 --tvt-split 0.7 0.1 0.2 --beta-rows 2 5 --beta-cols 4 5 --miss-perc 0.2 -v 2 
+
+

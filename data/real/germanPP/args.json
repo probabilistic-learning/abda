@@ -1,0 +1,1 @@
+{"miss_perc": 0.5, "show_plots": false, "rm_binary": true, "verbose": 0, "output": "data/islv/", "miss_val_perc": 0.02, "dataset": "data/GermanC.mat", "tvt_split": null, "dataset_name": "germanPP", "seed": 1111}

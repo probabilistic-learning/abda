@@ -1,0 +1,1 @@
+{"dataset": "data/WineP.mat", "output": "data/islv/", "dataset_name": "winePP", "miss_perc": null, "miss_val_perc": null, "tvt_split": [0.7, 0.1, 0.2], "seed": 1337, "show_plots": false, "rm_binary": true, "verbose": 2}
