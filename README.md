@@ -1,11 +1,11 @@
 # Automatic Bayesian Density Analysis
 
-This repository contains the code of the paper 
+This repository contains the code and the supplementary material of the paper 
 
 _Antonio Vergari, Alejandro Molina, Robert Peharz, Zoubin Ghahramani, Kristian Kersting and Isabel Valera_  
 "[**Automatic Bayesian Density Analysis**]()"
+In Proceedings of the Thirty-third AAAI Conference on Artificial Intelligence (AAAI'19)
 
-2018
 
 ## Overview
 
@@ -24,7 +24,6 @@ The code relies on the following `python3.4+` libs:
   * [sklearn (0.17+)](https://scikit-learn.org/stable/),
   * [pandas (0.15+)](https://pandas.pydata.org/),
   * [numba (0.27+)](https://numba.pydata.org/),
-  * [pystruct (0.2.4+)](https://numba.pydata.org/) and [cvxopt (1.1.9)](http://cvxopt.org/) for structured CRF SVMs,
   * [matplotlib (2.0+)](https://matplotlib.org/) and [seaborn (0.6+)](https://seaborn.pydata.org/) for plots and visualizations,
   * tentative probabilistic programming integration is provided via [pymc3 (3.4+)](http://docs.pymc.io/index.html) and [pyro (0.2+)](http://pyro.ai/) 
 
@@ -101,7 +100,7 @@ For default values please refer to the documentation with
 ipython3 -- bin/abda.py --help
 ```
 
-and for the hyperparameters employed in the experiments see the paper.
+and for the hyperparameters employed in the experiments see the paper and the supplementary material in the `supplementary` folder.
 
 
 
