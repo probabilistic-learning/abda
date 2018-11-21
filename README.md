@@ -4,6 +4,7 @@ This repository contains the code and the supplementary material of the paper
 
 _Antonio Vergari, Alejandro Molina, Robert Peharz, Zoubin Ghahramani, Kristian Kersting and Isabel Valera_  
 "[**Automatic Bayesian Density Analysis**]()"
+
 In Proceedings of the Thirty-third AAAI Conference on Artificial Intelligence (AAAI'19)
 
 
